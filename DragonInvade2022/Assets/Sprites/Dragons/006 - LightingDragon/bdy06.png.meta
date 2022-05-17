@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: d42753f2c9794984782b48cf8f7449a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 6LI_Wing1
+  - first:
+      213: 21300002
+    second: 6LI_Wind2
+  - first:
+      213: 21300004
+    second: bdy06_2
+  - first:
+      213: 21300006
+    second: bdy06_3
+  - first:
+      213: 21300008
+    second: bdy06_4
+  - first:
+      213: 21300010
+    second: bdy06_5
+  - first:
+      213: 21300012
+    second: bdy06_6
+  - first:
+      213: 21300014
+    second: bdy06_7
+  - first:
+      213: 21300016
+    second: bdy06_8
+  - first:
+      213: 21300018
+    second: bdy06_9
+  - first:
+      213: 21300020
+    second: bdy06_10
+  - first:
+      213: 21300022
+    second: 6LI_Body
+  - first:
+      213: 21300024
+    second: bdy06_13
+  - first:
+      213: 21300026
+    second: 6LI_Head
+  - first:
+      213: 21300028
+    second: bdy06_15
+  - first:
+      213: 21300030
+    second: bdy06_16
+  - first:
+      213: 21300032
+    second: bdy06_17
+  - first:
+      213: 21300034
+    second: 6LI_Head_Wink
+  - first:
+      213: 21300036
+    second: bdy06_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6LI_Wing1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2400
+        width: 220
+        height: 357
+      alignment: 9
+      pivot: {x: 0.07131038, y: 0.2689897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664bae3b62269744b13df37e18dac60
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6LI_Wind2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2403
+        width: 298
+        height: 357
+      alignment: 9
+      pivot: {x: 0.055326115, y: 0.27871627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe319a1596e2645469143a6c52c2c509
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2347
+        width: 346
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ebcb551c6e23b48b720e2e1985ba29
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_3
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2331
+        width: 564
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135ca4eac59fc24e82ac1d7cc4219fb
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2193
+        width: 469
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf6ba90f475c646bfe887498b2f2b4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_5
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2180
+        width: 904
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f23ac339e068945b4db59421db57dd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_6
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1899
+        width: 716
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca64a2c3a494842a737a4de27f19ec
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1527
+        width: 675
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1e6460e71cd341b2dccdb330e5f79
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_8
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1085
+        width: 1047
+        height: 1058
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20406d96d98483479c1ff1bae6394b1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_9
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 784
+        width: 1147
+        height: 1325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee628938a66ddd9428fd91c4d457bb4c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6LI_Body
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1085
+        width: 539
+        height: 411
+      alignment: 9
+      pivot: {x: 0.42891794, y: 0.907839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9cdd8da92b62441a58ada20f84e4c5
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6LI_Head
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 627
+        width: 482
+        height: 322
+      alignment: 9
+      pivot: {x: 0.6453987, y: 0.2586865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ef6cf2b122c340811c11c47125fe2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_15
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 620
+        width: 624
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442911e66cb74f4da5a15bf6f2c57e7
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_16
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 77
+        width: 839
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21330efb833460e4a90b3e3a91ad06a7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_17
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 77
+        width: 837
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27930f129748484499fbc267e5bba753
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6LI_Head_Wink
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 480
+        height: 323
+      alignment: 9
+      pivot: {x: 0.6453987, y: 0.2586865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8765e2e4497418f449d2b5a306665c69
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy06_19
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 114
+        width: 624
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14fa7f535e20f54c86171fa05a4631e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d6e3a696a9da78345a73c607283b1274
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bdy06_4: 21300008
+      bdy06_16: 21300030
+      bdy06_17: 21300032
+      bdy06_7: 21300014
+      bdy06_9: 21300018
+      6LI_Body: 21300022
+      bdy06_6: 21300012
+      bdy06_8: 21300016
+      6LI_Wind2: 21300002
+      6LI_Wing1: 21300000
+      6LI_Head_Wink: 21300034
+      bdy06_5: 21300010
+      bdy06_3: 21300006
+      6LI_Head: 21300026
+      bdy06_15: 21300028
+      bdy06_19: 21300036
+      bdy06_2: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

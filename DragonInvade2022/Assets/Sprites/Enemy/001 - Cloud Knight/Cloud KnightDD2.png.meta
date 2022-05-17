@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 84329d72cde76b140ad2fda8eee9a770
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cloud KnightDD2_0
+  - first:
+      213: 21300002
+    second: Cloud KnightDD2_1
+  - first:
+      213: 21300004
+    second: Cloud KnightDD2_2
+  - first:
+      213: 21300006
+    second: Cloud KnightDD2_3
+  - first:
+      213: 21300008
+    second: Cloud KnightDD2_4
+  - first:
+      213: 21300010
+    second: Cloud KnightDD2_5
+  - first:
+      213: 21300012
+    second: Cloud KnightDD2_6
+  - first:
+      213: 21300014
+    second: Cloud KnightDD2_7
+  - first:
+      213: 21300016
+    second: Cloud KnightDD2_8
+  - first:
+      213: 21300018
+    second: Cloud KnightDD2_9
+  - first:
+      213: 21300020
+    second: Cloud KnightDD2_10
+  - first:
+      213: 21300022
+    second: Cloud KnightDD2_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloud KnightDD2_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 941
+        width: 148
+        height: 190
+      alignment: 9
+      pivot: {x: 0.2742425, y: 0.8187346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5301fe3ca1816f44b86a86abb89ef24
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 983
+        width: 200
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff49925857723d4ebccd944b0e49e8f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 886
+        width: 178
+        height: 196
+      alignment: 9
+      pivot: {x: 0.28882763, y: 0.8089774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8948b61b5f421da459e260578905673d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 787
+        width: 299
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21385384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcfe25a4874e094c86a6511e2e07655
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_4
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 771
+        width: 333
+        height: 341
+      alignment: 9
+      pivot: {x: 0.61287874, y: 0.24891908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916edc9b63b4d944d9af48826b00f2f8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_5
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 404
+        width: 1000
+        height: 583
+      alignment: 9
+      pivot: {x: 0.37052795, y: 0.57880235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfdd11db4237314bad41eb32e624bd0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 408
+        width: 365
+        height: 468
+      alignment: 9
+      pivot: {x: 0.53432757, y: 0.58924186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618dc1cfb8d08624db88387cdedb668e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 776
+        width: 157
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c588eda8ca1dab44094ee9e81ee6c67a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 260
+        width: 280
+        height: 390
+      alignment: 9
+      pivot: {x: 0.32100633, y: 0.917652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4c5205bef7cc4ba4f101b3b0624bc
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 355
+        width: 469
+        height: 395
+      alignment: 9
+      pivot: {x: 0.83561295, y: 0.35521412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793a8adb10cb9846a14ecee9c915aa3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 1007
+        height: 125
+      alignment: 9
+      pivot: {x: 0.6970056, y: 0.39976415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4f74726062afb4fab8d158bbaacbe9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud KnightDD2_11
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 13
+        width: 930
+        height: 342
+      alignment: 9
+      pivot: {x: 0.54041785, y: 0.5061063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8e4a040f7e8d44b9fff0581c8ee60
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fdc98644244d09d40b5d6cffcda0ecdf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cloud KnightDD2_0: 21300000
+      Cloud KnightDD2_10: 21300020
+      Cloud KnightDD2_5: 21300010
+      Cloud KnightDD2_7: 21300014
+      Cloud KnightDD2_9: 21300018
+      Cloud KnightDD2_6: 21300012
+      Cloud KnightDD2_3: 21300006
+      Cloud KnightDD2_11: 21300022
+      Cloud KnightDD2_1: 21300002
+      Cloud KnightDD2_2: 21300004
+      Cloud KnightDD2_4: 21300008
+      Cloud KnightDD2_8: 21300016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

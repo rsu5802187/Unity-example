@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 144bc3740db88f4498fee2c75cc240b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 3E1_Head_1
+  - first:
+      213: 21300002
+    second: 3E1_Head_Wink
+  - first:
+      213: 21300004
+    second: 3E1_Wing2
+  - first:
+      213: 21300006
+    second: Earth Dragon_3
+  - first:
+      213: 21300008
+    second: Earth Dragon_4
+  - first:
+      213: 21300010
+    second: Earth Dragon_5
+  - first:
+      213: 21300012
+    second: Earth Dragon_6
+  - first:
+      213: 21300014
+    second: Earth Dragon_7
+  - first:
+      213: 21300016
+    second: Earth Dragon_8
+  - first:
+      213: 21300018
+    second: Earth Dragon_9
+  - first:
+      213: 21300020
+    second: 3E1_Head_2
+  - first:
+      213: 21300022
+    second: 3E1_Head_Idle
+  - first:
+      213: 21300024
+    second: Earth Dragon_12
+  - first:
+      213: 21300026
+    second: Earth Dragon_13
+  - first:
+      213: 21300028
+    second: Earth Dragon_14
+  - first:
+      213: 21300030
+    second: 3E3_Body
+  - first:
+      213: 21300032
+    second: 3E1_Body
+  - first:
+      213: 21300034
+    second: 3E1_Wing1
+  - first:
+      213: 21300036
+    second: 3E2_Body
+  - first:
+      213: 21300038
+    second: Earth Dragon_19
+  - first:
+      213: 21300040
+    second: Earth Dragon_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3E1_Head_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 902
+        width: 296
+        height: 289
+      alignment: 9
+      pivot: {x: 0.7354258, y: 0.46989593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f9b3cb08964e498c4a7d999e7d302
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E1_Head_Wink
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 928
+        width: 297
+        height: 289
+      alignment: 9
+      pivot: {x: 0.7354258, y: 0.46989593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4393374d49585784f81ad48b978c99dc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E1_Wing2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 694
+        width: 224
+        height: 466
+      alignment: 9
+      pivot: {x: 0.103237696, y: 0.3728546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84027c4225dc32045885a543eaa6fa0e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1114
+        width: 326
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e783020769f84a8a9e3a53604d9fa
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1114
+        width: 326
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7dc646ce7fc794caaa50a7da8daaf3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1146
+        width: 313
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4bab759057e2149a56d4510cb5f0fa
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 731
+        width: 313
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964303b4569535641b3e088d321f88db
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1152
+        width: 313
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8db6ab790eeb4b8be027a9696f9d0
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 900
+        width: 488
+        height: 664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a5b6333997cf40ba6ff8d847fcb50
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 863
+        width: 630
+        height: 664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514275885841d6642a5db914f973700e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E1_Head_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 577
+        width: 297
+        height: 289
+      alignment: 9
+      pivot: {x: 0.7354258, y: 0.46989593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ed843e85383f44a1cf978f89e5283
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E1_Head_Idle
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 615
+        width: 297
+        height: 289
+      alignment: 9
+      pivot: {x: 0.7354258, y: 0.46989593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd7f164c9108c458a324003f9c79f1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 694
+        width: 326
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7700d52d91b144ca1468b549fbcd19
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 694
+        width: 326
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931705b728c1f674f9bc7da648704f9d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 713
+        width: 312
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004b45c234f36244e8d26b1f01f2cfde
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E3_Body
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 173
+        width: 854
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ecfb32133955449be2088d520f401
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E1_Body
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 168
+        width: 509
+        height: 369
+      alignment: 9
+      pivot: {x: 0.41513738, y: 0.9079362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3f191bded776b46af284600e987bf0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E1_Wing1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 161
+        width: 315
+        height: 467
+      alignment: 9
+      pivot: {x: 0.08763835, y: 0.3828864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96c2223bc64864aa7e3d72c857f0ba
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3E2_Body
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 193
+        width: 620
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984ef63b3bc90e4ea44071477f2aa1c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 161
+        width: 317
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6aabf83a3c2d24fbb967b3116f05bf
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 410
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65bca7d5cf31d4e9cce1ab5c7dc87c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a4e266a0336d0604e9b9f18540696ef6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Earth Dragon_19: 21300038
+      Earth Dragon_8: 21300016
+      Earth Dragon_7: 21300014
+      3E1_Head_2: 21300020
+      3E1_Head_Wink: 21300002
+      3E1_Body: 21300032
+      3E3_Body: 21300030
+      3E1_Head_Idle: 21300022
+      Earth Dragon_6: 21300012
+      Earth Dragon_3: 21300006
+      Earth Dragon_4: 21300008
+      Earth Dragon_13: 21300026
+      Earth Dragon_14: 21300028
+      3E1_Wing2: 21300004
+      3E1_Wing1: 21300034
+      3E2_Body: 21300036
+      Earth Dragon_12: 21300024
+      Earth Dragon_20: 21300040
+      Earth Dragon_9: 21300018
+      3E1_Head_1: 21300000
+      Earth Dragon_5: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

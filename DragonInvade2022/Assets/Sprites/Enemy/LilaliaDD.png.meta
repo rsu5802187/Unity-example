@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 7780bec3c69a93f4ba2e43d03dd0a1d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LilaliaDD_1
+  - first:
+      213: 21300002
+    second: LilaliaDD_2
+  - first:
+      213: 21300004
+    second: LilaliaDD_3
+  - first:
+      213: 21300006
+    second: LilaliaDD_4
+  - first:
+      213: 21300008
+    second: LilaliaDD_5
+  - first:
+      213: 21300010
+    second: LilaliaDD_6
+  - first:
+      213: 21300012
+    second: LilaliaDD_7
+  - first:
+      213: 21300014
+    second: LilaliaDD_8
+  - first:
+      213: 21300016
+    second: LilaliaDD_9
+  - first:
+      213: 21300018
+    second: LilaliaDD_10
+  - first:
+      213: 21300020
+    second: LilaliaDD_11
+  - first:
+      213: 21300022
+    second: LilaliaDD_12
+  - first:
+      213: 21300024
+    second: LilaliaDD_13
+  - first:
+      213: 21300026
+    second: LilaliaDD_14
+  - first:
+      213: 21300028
+    second: LilaliaDD_15
+  - first:
+      213: 21300030
+    second: LilaliaDD_16
+  - first:
+      213: 21300032
+    second: LilaliaDD_17
+  - first:
+      213: 21300034
+    second: LilaliaDD_18
+  - first:
+      213: 21300036
+    second: LilaliaDD_19
+  - first:
+      213: 21300038
+    second: LilaliaDD_20
+  - first:
+      213: 21300040
+    second: LilaliaDD_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LilaliaDD_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1154
+        width: 184
+        height: 149
+      alignment: 9
+      pivot: {x: 0.84147376, y: 0.42771062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf4a376120135468f363c47f621f5a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1198
+        width: 184
+        height: 113
+      alignment: 9
+      pivot: {x: 0.8804995, y: 0.22992861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b14dc53842ac4a8e63ee21de06199
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1206
+        width: 205
+        height: 82
+      alignment: 9
+      pivot: {x: 0.89406323, y: 0.30296808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d4f3a7f65dfc469e0e84e5731cf04
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 679
+        width: 320
+        height: 617
+      alignment: 9
+      pivot: {x: 0.073645785, y: 0.32833797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ed4247d86fe744f87b05d8972dfe04
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 915
+        width: 72
+        height: 175
+      alignment: 9
+      pivot: {x: 0.69946456, y: 0.83851844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa4c1a98d61e949a2463c24df15b38
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 925
+        width: 73
+        height: 182
+      alignment: 9
+      pivot: {x: 0.25408602, y: 0.8550898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc93c6e66cb6f14caac4e04cd7bb920
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1049
+        width: 205
+        height: 82
+      alignment: 9
+      pivot: {x: 0.89406323, y: 0.3686449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b94851bcd0aa745a3e746c85bc903f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 915
+        width: 229
+        height: 73
+      alignment: 9
+      pivot: {x: 0.8919598, y: 0.5737739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13e4a4f9cfeb14599e81349f057dfa
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 559
+        width: 218
+        height: 182
+      alignment: 9
+      pivot: {x: 0.62352127, y: 0.18436441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea65a119fa9f945b100592457062c9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 553
+        width: 71
+        height: 175
+      alignment: 9
+      pivot: {x: 0.4494315, y: 0.8487769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800713041c352664a8fb980666bd3177
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 553
+        width: 90
+        height: 181
+      alignment: 9
+      pivot: {x: 0.28058946, y: 0.86696935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327baf49693ba634a8c6500c4b8c3907
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 581
+        width: 292
+        height: 253
+      alignment: 9
+      pivot: {x: 0.06350165, y: 0.22327311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b2221fde81ab49b87fe601b7d3a09
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_13
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 8
+        width: 504
+        height: 642
+      alignment: 9
+      pivot: {x: 0.047644235, y: 0.35459623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e006f1be08194c740ae1ba322b8e5244
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 317
+        width: 215
+        height: 182
+      alignment: 9
+      pivot: {x: 0.6252448, y: 0.18436423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9d37c3662c8b4d8f24f87366be35d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 305
+        width: 201
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15310566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f82f17011d49d448cfad66c7a6a0ac
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_16
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 257
+        width: 135
+        height: 235
+      alignment: 9
+      pivot: {x: 0.69946426, y: 0.8895905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ded98ff2dcb84b82c2881a288e085
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_17
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 252
+        width: 136
+        height: 235
+      alignment: 9
+      pivot: {x: 0.6583979, y: 0.8972298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a71ecc35cb30347b21931c38796d3d
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 46
+        width: 218
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5247042, y: 0.16755971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0d958ad73352347ae32c8ef0276bcc
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 46
+        width: 110
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5163202, y: 0.77686775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4d90e6451ef44fa0319869e174d70
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 41
+        width: 111
+        height: 211
+      alignment: 9
+      pivot: {x: 0.51617324, y: 0.82330173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad16e9b5bf40bf4ba779d88e228b4e9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilaliaDD_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 775
+        width: 464
+        height: 554
+      alignment: 9
+      pivot: {x: 0.47291765, y: 0.19216292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a3487d8aeca54fba34fa7b36d2004
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d37de0468376d394ea127794975cd32b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LilaliaDD_9: 21300016
+      LilaliaDD_17: 21300032
+      LilaliaDD_18: 21300034
+      LilaliaDD_12: 21300022
+      LilaliaDD_7: 21300012
+      LilaliaDD_16: 21300030
+      LilaliaDD_11: 21300020
+      LilaliaDD_2: 21300002
+      LilaliaDD_13: 21300024
+      LilaliaDD_15: 21300028
+      LilaliaDD_6: 21300010
+      LilaliaDD_19: 21300036
+      LilaliaDD_5: 21300008
+      LilaliaDD_14: 21300026
+      LilaliaDD_20: 21300038
+      LilaliaDD_4: 21300006
+      LilaliaDD_8: 21300014
+      LilaliaDD_3: 21300004
+      LilaliaDD_10: 21300018
+      LilaliaDD_0: 21300040
+      LilaliaDD_1: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 1e30242a85d75a640a917be4f36789b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 10G1_Head
+  - first:
+      213: 21300002
+    second: 10G1_Wink
+  - first:
+      213: 21300004
+    second: bdy10_2
+  - first:
+      213: 21300006
+    second: bdy10_3
+  - first:
+      213: 21300008
+    second: bdy10_4
+  - first:
+      213: 21300010
+    second: bdy10_5
+  - first:
+      213: 21300012
+    second: 10G1_Body
+  - first:
+      213: 21300014
+    second: bdy10_7
+  - first:
+      213: 21300016
+    second: bdy10_8
+  - first:
+      213: 21300018
+    second: 10G1_Wind1
+  - first:
+      213: 21300020
+    second: 10G1_Wind2
+  - first:
+      213: 21300022
+    second: bdy10_11
+  - first:
+      213: 21300024
+    second: bdy10_12
+  - first:
+      213: 21300026
+    second: bdy10_13
+  - first:
+      213: 21300028
+    second: bdy10_14
+  - first:
+      213: 21300030
+    second: bdy10_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10G1_Head
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2171
+        width: 285
+        height: 289
+      alignment: 9
+      pivot: {x: 0.58953464, y: 0.17013729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ddbf52f71fc85479c6b9ef91cdb6df
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10G1_Wink
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2171
+        width: 286
+        height: 289
+      alignment: 9
+      pivot: {x: 0.58953464, y: 0.17013729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9c711a166e1d48a0c5044b8afeb4e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2141
+        width: 341
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5c5fe1e137bc3489e75a6d505001cf
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_3
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2141
+        width: 342
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4cd79e6332024b96f139eddaf62f5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1893
+        width: 439
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea187559e140924aab2432b15fc6e89
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_5
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1893
+        width: 440
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f6176db1fdb348ab171b36c7e738a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10G1_Body
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1754
+        width: 489
+        height: 409
+      alignment: 9
+      pivot: {x: 0.24721383, y: 0.8202743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42e3ccce0c061943abec9dcd07d974e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1508
+        width: 650
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce2507eee109a40b3a280ab642601a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_8
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1346
+        width: 643
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a69d136f8b3b478589d7439382921
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10G1_Wind1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1445
+        width: 381
+        height: 281
+      alignment: 9
+      pivot: {x: 0.030022528, y: 0.104638584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec625a6566cc2634da6c9d40f6f0f1cd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10G1_Wind2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1446
+        width: 257
+        height: 280
+      alignment: 9
+      pivot: {x: 0.052460786, y: 0.10322658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a10e1ac116dd74aabafb8251714e66
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_11
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1008
+        width: 947
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80946d559b1c54e8a8938f360c819c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 981
+        width: 561
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e02a80b61ab7d45b55dd54e7e44ec7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 981
+        width: 380
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f696cabb96ff245952ceb27521960f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_14
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 348
+        width: 959
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7436b7898ef41448fa39f881868d7d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdy10_15
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 338
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff216a201c14e2a47b700d2fe30d1bca
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 677c88990db64c74fa2c1648946e1ca8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bdy10_5: 21300010
+      10G1_Wind1: 21300018
+      bdy10_7: 21300014
+      10G1_Wink: 21300002
+      bdy10_3: 21300006
+      bdy10_8: 21300016
+      10G1_Wind2: 21300020
+      bdy10_15: 21300030
+      bdy10_4: 21300008
+      10G1_Head: 21300000
+      bdy10_12: 21300024
+      bdy10_14: 21300028
+      10G1_Body: 21300012
+      bdy10_11: 21300022
+      bdy10_2: 21300004
+      bdy10_13: 21300026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

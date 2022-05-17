@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d459db8924ac39640a2590a9cfbb01af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GaSkill02_0
+  - first:
+      213: 21300002
+    second: GaSkill02_1
+  - first:
+      213: 21300004
+    second: GaSkill02_2
+  - first:
+      213: 21300006
+    second: GaSkill02_3
+  - first:
+      213: 21300008
+    second: GaSkill02_4
+  - first:
+      213: 21300010
+    second: GaSkill02_5
+  - first:
+      213: 21300012
+    second: GaSkill02_6
+  - first:
+      213: 21300014
+    second: GaSkill02_7
+  - first:
+      213: 21300016
+    second: GaSkill02_8
+  - first:
+      213: 21300018
+    second: GaSkill02_9
+  - first:
+      213: 21300020
+    second: GaSkill02_10
+  - first:
+      213: 21300022
+    second: GaSkill02_11
+  - first:
+      213: 21300024
+    second: GaSkill02_12
+  - first:
+      213: 21300026
+    second: GaSkill02_13
+  - first:
+      213: 21300028
+    second: GaSkill02_14
+  - first:
+      213: 21300030
+    second: GaSkill02_15
+  - first:
+      213: 21300032
+    second: GaSkill02_16
+  - first:
+      213: 21300034
+    second: GaSkill02_17
+  - first:
+      213: 21300036
+    second: GaSkill02_18
+  - first:
+      213: 21300038
+    second: GaSkill02_19
+  - first:
+      213: 21300040
+    second: GaSkill02_20
+  - first:
+      213: 21300042
+    second: GaSkill02_21
+  - first:
+      213: 21300044
+    second: GaSkill02_22
+  - first:
+      213: 21300046
+    second: GaSkill02_23
+  - first:
+      213: 21300048
+    second: GaSkill02_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GaSkill02_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2250
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e80ecd20594d6439d7b19b4c6ec973
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2250
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd9c99191f48b4899bde67ab7018cb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2250
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c0fe58559152498d3a7ff921bb9f4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_3
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2250
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f055d1203ae041bb2e2bace22d5d6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1747
+        width: 396
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f73a39e54a12a04ab1ad8427bf364ae
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1753
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65d37d684056bb43878b2bff4931e25
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1753
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbeb380a8670334e8d6ddf7ee22e1f4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_8
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1747
+        width: 396
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa5fa75b79227408a2ff1d8af1dbf0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1227
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b8702f64509a43aa00a578c1a1bed
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1227
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf74941485fb042bf0aa5b7a50c986
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1227
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d80aae7b31e446b573a6f5cdf9456
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_13
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1227
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d9850a92b7324fa29b0fd31beb284
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 707
+        width: 396
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea82623ad882c343885af08ad041933
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 712
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9bfc7b18b2f34f8c80d8aade31f0f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_17
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 707
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee1a60611a0864bb23ea23422d9eb2
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_18
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 712
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e8f1089b9c2047a0c11da7ab0b84d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 188
+        width: 394
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c63d60b0735d4d84a13617384cc4d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 182
+        width: 392
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a0692a3e62be48b4f830355708738
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 182
+        width: 394
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb57468e9dafb43912f5fdeb7a4ac0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill02_23
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 182
+        width: 394
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100aee8f495fb84c866c49417360486
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 04adce3830598fd4e8c21c2aff804624
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GaSkill02_5: 21300010
+      GaSkill02_17: 21300034
+      GaSkill02_3: 21300006
+      GaSkill02_12: 21300024
+      GaSkill02_20: 21300040
+      GaSkill02_15: 21300030
+      GaSkill02_8: 21300016
+      GaSkill02_7: 21300014
+      GaSkill02_18: 21300036
+      GaSkill02_21: 21300042
+      GaSkill02_11: 21300022
+      GaSkill02_2: 21300004
+      GaSkill02_22: 21300044
+      GaSkill02_23: 21300046
+      GaSkill02_0: 21300000
+      GaSkill02_10: 21300020
+      GaSkill02_16: 21300032
+      GaSkill02_13: 21300026
+      GaSkill02_6: 21300012
+      GaSkill02_1: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

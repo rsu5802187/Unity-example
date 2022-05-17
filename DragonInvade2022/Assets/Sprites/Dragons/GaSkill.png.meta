@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 52d0bf8f54d36744082c852f6a7438a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GaSkill_FireBall
+  - first:
+      213: 21300002
+    second: GaSkill_1
+  - first:
+      213: 21300004
+    second: GaSkill_FlameThrower_H
+  - first:
+      213: 21300006
+    second: GaSkill_FlameThrower_D
+  - first:
+      213: 21300008
+    second: GaSkill_WindWave
+  - first:
+      213: 21300010
+    second: GaSkill_12
+  - first:
+      213: 21300012
+    second: GaSkill_Tornado_H
+  - first:
+      213: 21300014
+    second: GaSkill_Tornado_D
+  - first:
+      213: 21300016
+    second: GaSkill_WaterBall
+  - first:
+      213: 21300018
+    second: GaSkill_24
+  - first:
+      213: 21300020
+    second: GaSkill_AquaBarrier_H
+  - first:
+      213: 21300022
+    second: GaSkill_AquaBarrier_D
+  - first:
+      213: 21300024
+    second: GaSkill_37
+  - first:
+      213: 21300026
+    second: GaSkill_38
+  - first:
+      213: 21300028
+    second: GaSkill_39
+  - first:
+      213: 21300030
+    second: GaSkill_40
+  - first:
+      213: 21300032
+    second: GaSkill_42
+  - first:
+      213: 21300034
+    second: GaSkill_53
+  - first:
+      213: 21300036
+    second: GaSkill_54
+  - first:
+      213: 21300038
+    second: GaSkill_55
+  - first:
+      213: 21300040
+    second: GaSkill_56
+  - first:
+      213: 21300042
+    second: GaSkill_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GaSkill_FireBall
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2252
+        width: 394
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d89c2df47f54c43a10491e6e9dca75
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2252
+        width: 393
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c3143c3e3f4841a429f175f8f05e4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_FlameThrower_H
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2250
+        width: 392
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e3cdec5a18584cb83dfc85b34f2b5
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_FlameThrower_D
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2250
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16eb96eb52f9a498c9af8734d3c560
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_WindWave
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1742
+        width: 394
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f849cbbae41e624f819fb2d197fb9dd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1743
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327211e63cd824c42974ca8264552cd3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_Tornado_H
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1743
+        width: 392
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a67c71f43603f14b90e68b2551f2ef2
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_Tornado_D
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1743
+        width: 396
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c90c3b7f7b234c91160a451a1f50e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_WaterBall
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1227
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9279f4137a2d0414a99f6f6ebee9e893
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1227
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660faba298bb23d4fbd03a573ada430b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_AquaBarrier_H
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1226
+        width: 393
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7729d3daa66149b6dd55ae71005a3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_AquaBarrier_D
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1227
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d0d2597c897f4e9d80477531254aa
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 708
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c7473c47288c4ca7b8690801dad31
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 708
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce1b25dc09d904eb723d2316c32587
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 708
+        width: 393
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d00bf9aa1d6a4ea7f6618c088ca20
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_40
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 708
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920c2144399cecb4ab9e2c64a35743d1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189
+        width: 395
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fcb3165c7a3244983fc87ddddef9d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_54
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 189
+        width: 395
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00adee0c0399fc346830c2de0004fdb0
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 189
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8eb34668f471d45a6b4c95ac3ff0a2
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaSkill_56
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 188
+        width: 394
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa83d99e448d3f4c93c3f6c2278bc01
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c9c6245ae9447a469f3f8dd747c89b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GaSkill_WindWave: 21300008
+      GaSkill_39: 21300028
+      GaSkill_AquaBarrier_H: 21300020
+      GaSkill_40: 21300030
+      GaSkill_24: 21300018
+      GaSkill_38: 21300026
+      GaSkill_55: 21300038
+      GaSkill_53: 21300034
+      GaSkill_FireBall: 21300000
+      GaSkill_FlameThrower_D: 21300006
+      GaSkill_AquaBarrier_D: 21300022
+      GaSkill_12: 21300010
+      GaSkill_WaterBall: 21300016
+      GaSkill_54: 21300036
+      GaSkill_1: 21300002
+      GaSkill_FlameThrower_H: 21300004
+      GaSkill_Tornado_D: 21300014
+      GaSkill_37: 21300024
+      GaSkill_Tornado_H: 21300012
+      GaSkill_56: 21300040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

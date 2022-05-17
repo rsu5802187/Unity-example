@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: de7599f32c1ee764a9ad468b1fc427bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Archive Menu-Resize-_0
+  - first:
+      213: 21300002
+    second: Archive Menu-Resize-_1
+  - first:
+      213: 21300004
+    second: Archive Menu-Resize-_3
+  - first:
+      213: 21300006
+    second: Archive Menu-Resize-_5
+  - first:
+      213: 21300008
+    second: Archive Menu_Title
+  - first:
+      213: 21300010
+    second: Archive Menu-Resize-_11
+  - first:
+      213: 21300012
+    second: Archive Menu-Resize-_12
+  - first:
+      213: 21300014
+    second: Archive Menu-Resize-_13
+  - first:
+      213: 21300016
+    second: Archive menu_c_5
+  - first:
+      213: 21300018
+    second: Archive menu_c_6
+  - first:
+      213: 21300020
+    second: Archive menu_c_7
+  - first:
+      213: 21300022
+    second: Archive menu_c_8
+  - first:
+      213: 21300024
+    second: Archive menu_c_3
+  - first:
+      213: 21300026
+    second: Archive menu_c_4
+  - first:
+      213: 21300028
+    second: Archive menu_c_1
+  - first:
+      213: 21300030
+    second: Archive menu_c_2
+  - first:
+      213: 21300032
+    second: Archive menu_bg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archive Menu-Resize-_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1466
+        width: 219
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcb8f8af4e39b245aee521b33782a01
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive Menu-Resize-_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1466
+        width: 204
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17360b5abf5d6a14094f6b51f8840451
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive Menu-Resize-_5
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1463
+        width: 198
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506ccdb6db941543aab8259dec4fc82
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive Menu_Title
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1304
+        width: 375
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af82aeae61afea419117c6ba3ab0d8f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive Menu-Resize-_11
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1256
+        width: 193
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3a6c8855513646921059847887ae0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive Menu-Resize-_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 893
+        width: 268
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42b08b80446fb4fb5b14134cede42b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive Menu-Resize-_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 892
+        width: 268
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f03b8daedfb6445bb735773586c656
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_5
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1067
+        width: 118
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c92a5a08053834997d3bd993f02635
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1079
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d0076682e6e64c8994220aefcd4a6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 896
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e181bbc9085881409535a2ad9551fc9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_8
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 896
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6ebfe52d397744e85325b056b16591
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 182
+        width: 42
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556157ef28cbed048a42628088b7ae28
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 182
+        width: 42
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e4a909a015dc74ca02ba31da262ddb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 748
+        width: 1040
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b8a0b4c15c4241a521d6088d6e8bc
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_c_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 665
+        width: 1042
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591575ac0ba3c504bb5be5eced2e1a19
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive menu_bg
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 33
+        width: 1035
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd92318e743834a8f9750890648b92
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00b5823d0c54cfa45a03a567472b4304
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Archive menu_c_8: 21300022
+      Archive Menu-Resize-_5: 21300006
+      Archive menu_c_2: 21300030
+      Archive Menu-Resize-_3: 21300004
+      Archive Menu_Title: 21300008
+      Archive menu_c_7: 21300020
+      Archive menu_bg: 21300032
+      Archive menu_c_4: 21300026
+      Archive Menu-Resize-_1: 21300002
+      Archive Menu-Resize-_12: 21300012
+      Archive menu_c_1: 21300028
+      Archive menu_c_3: 21300024
+      Archive Menu-Resize-_11: 21300010
+      Archive Menu-Resize-_13: 21300014
+      Archive menu_c_5: 21300016
+      Archive menu_c_6: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 45607946fe4a2bf4588f685b82522a95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 005 - Strike_strip18_0
+  - first:
+      213: 21300002
+    second: 005 - Strike_strip18_1
+  - first:
+      213: 21300004
+    second: 005 - Strike_strip18_2
+  - first:
+      213: 21300006
+    second: 005 - Strike_strip18_3
+  - first:
+      213: 21300008
+    second: 005 - Strike_strip18_4
+  - first:
+      213: 21300010
+    second: 005 - Strike_strip18_5
+  - first:
+      213: 21300012
+    second: 005 - Strike_strip18_6
+  - first:
+      213: 21300014
+    second: 005 - Strike_strip18_7
+  - first:
+      213: 21300016
+    second: 005 - Strike_strip18_8
+  - first:
+      213: 21300018
+    second: 005 - Strike_strip18_9
+  - first:
+      213: 21300020
+    second: 005 - Strike_strip18_10
+  - first:
+      213: 21300022
+    second: 005 - Strike_strip18_11
+  - first:
+      213: 21300024
+    second: 005 - Strike_strip18_12
+  - first:
+      213: 21300026
+    second: 005 - Strike_strip18_13
+  - first:
+      213: 21300028
+    second: 005 - Strike_strip18_14
+  - first:
+      213: 21300030
+    second: 005 - Strike_strip18_15
+  - first:
+      213: 21300032
+    second: 005 - Strike_strip18_16
+  - first:
+      213: 21300034
+    second: 005 - Strike_strip18_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6991b754db9dd4390db724ffad3f1f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a94f58dc08baa646a3fb92f7b5ad8b7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60463eb382796ab4bb09b33b93e56809
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bb6fbf6e9fcc24cb354e828c762f13
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db0c3c6230beb4e9d2f0ad3eac9dc6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_5
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50bf83be1933a4da556eda306f7d40
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_6
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98430fc704b66043a5402478d42e3d2
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_7
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3039f588edfa88c4ab0551887da2f076
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_8
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6741316c2d2694fb4e2a3368d51275
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_9
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6d1c49b9577f4585dbdc9be5c0bce
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_10
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0168d09a48b549b558b3fedebaaab
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_11
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a2f71ed53ba74ca874d4eb58524ce
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_12
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70752efdb0651d5459ac12ff647eb204
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_13
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8331187640952498d032c77a7b641c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_14
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66dfecca7b624d4481392717e8244a4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_15
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188508937720f7c49a87b2980759cb32
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_16
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e693f30630974facd3e400a69623f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005 - Strike_strip18_17
+      rect:
+        serializedVersion: 2
+        x: 7888
+        y: 0
+        width: 464
+        height: 1920
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f9a24c6ec8214296120a4fc0838fb
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f49891f71f069a84e8abab7b7da59480
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      005 - Strike_strip18_2: 21300004
+      005 - Strike_strip18_14: 21300028
+      005 - Strike_strip18_1: 21300002
+      005 - Strike_strip18_8: 21300016
+      005 - Strike_strip18_9: 21300018
+      005 - Strike_strip18_13: 21300026
+      005 - Strike_strip18_15: 21300030
+      005 - Strike_strip18_7: 21300014
+      005 - Strike_strip18_16: 21300032
+      005 - Strike_strip18_0: 21300000
+      005 - Strike_strip18_5: 21300010
+      005 - Strike_strip18_11: 21300022
+      005 - Strike_strip18_12: 21300024
+      005 - Strike_strip18_10: 21300020
+      005 - Strike_strip18_17: 21300034
+      005 - Strike_strip18_3: 21300006
+      005 - Strike_strip18_4: 21300008
+      005 - Strike_strip18_6: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

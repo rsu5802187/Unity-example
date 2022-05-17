@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 6b6ae603eec105447ba4ae6b2276f4c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SumsaremDD_0
+  - first:
+      213: 21300002
+    second: SumsaremDD_1
+  - first:
+      213: 21300004
+    second: SumsaremDD_2
+  - first:
+      213: 21300006
+    second: SumsaremDD_3
+  - first:
+      213: 21300008
+    second: SumsaremDD_4
+  - first:
+      213: 21300010
+    second: SumsaremDD_5
+  - first:
+      213: 21300012
+    second: SumsaremDD_6
+  - first:
+      213: 21300014
+    second: SumsaremDD_7
+  - first:
+      213: 21300016
+    second: SumsaremDD_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SumsaremDD_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 540
+        width: 294
+        height: 297
+      alignment: 9
+      pivot: {x: 0.42561677, y: 0.084196046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c6716b757d6d45bc0ae6726d65814
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 716
+        width: 250
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4794177, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8afb4076a4c8d4b95e0d4b713b892b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 281
+        width: 165
+        height: 536
+      alignment: 9
+      pivot: {x: 0.28949898, y: 0.5743997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59148c6c720e14bb526a485804e571
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 14
+        width: 360
+        height: 432
+      alignment: 9
+      pivot: {x: 0.30704105, y: 0.93475336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7cdf9c7b3425418842dfdf4e8b2c4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 434
+        width: 202
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4936318, y: 0.15575399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db29a6c93015b5c4baeedc6d9f49c987
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 242
+        width: 72
+        height: 135
+      alignment: 9
+      pivot: {x: 0.37493387, y: 0.7858656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b32e2c211a2a78448814db8b8969a63
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 242
+        width: 62
+        height: 134
+      alignment: 9
+      pivot: {x: 0.58299404, y: 0.77839863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8e8fc8528ec3438ee880ba4b0c391
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 44
+        width: 79
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48371676, y: 0.8105087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90aec2b4055c04ba1d71013235e594
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SumsaremDD_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 54
+        width: 65
+        height: 150
+      alignment: 9
+      pivot: {x: 0.598953, y: 0.8516146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8745dce39ab9e4e8764749a985bf4e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9671290069b416c4ea460145b8498d8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SumsaremDD_5: 21300010
+      SumsaremDD_6: 21300012
+      SumsaremDD_0: 21300000
+      SumsaremDD_8: 21300016
+      SumsaremDD_3: 21300006
+      SumsaremDD_1: 21300002
+      SumsaremDD_2: 21300004
+      SumsaremDD_4: 21300008
+      SumsaremDD_7: 21300014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

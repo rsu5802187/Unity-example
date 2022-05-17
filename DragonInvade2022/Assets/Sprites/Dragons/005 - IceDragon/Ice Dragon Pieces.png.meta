@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 839a8912deb1f7b4ab678b97490d27f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ice Dragon Pieces_0
+  - first:
+      213: 21300002
+    second: Ice Dragon Pieces_1
+  - first:
+      213: 21300004
+    second: Ice Dragon Pieces_2
+  - first:
+      213: 21300006
+    second: 5I1_Body
+  - first:
+      213: 21300008
+    second: 5I1_Wing1
+  - first:
+      213: 21300010
+    second: Ice Dragon Pieces_5
+  - first:
+      213: 21300012
+    second: Ice Dragon Pieces_6
+  - first:
+      213: 21300014
+    second: Ice Dragon Pieces_7
+  - first:
+      213: 21300016
+    second: 5I1_Wing2
+  - first:
+      213: 21300018
+    second: 5I1_Head
+  - first:
+      213: 21300020
+    second: Ice Dragon Pieces_11
+  - first:
+      213: 21300022
+    second: Ice Dragon Pieces_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_0
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2141
+        width: 268
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37278f4411dc1e45b3372e8dda8e2ec
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_1
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2103
+        width: 342
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b096922f89835a4690b9151eb222a58
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_2
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1931
+        width: 363
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff2336f0292324448b3aed87f7dad00
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5I1_Body
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1546
+        width: 401
+        height: 320
+      alignment: 9
+      pivot: {x: 0.18992832, y: 0.93869513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c76d6034ee3684eab41a7dd4f9805a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5I1_Wing1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1795
+        width: 211
+        height: 303
+      alignment: 9
+      pivot: {x: 0.04923194, y: 0.33891916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02fd29e7a6ea34eb20d70830d435a6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_5
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1778
+        width: 308
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d77c663b7c3dd4a834c6d6c3b96f8a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_6
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1339
+        width: 493
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad4f4c6c7245da4b972177f4c8cec7c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1093
+        width: 570
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb88758f8e1fece48b18bdda57b3366a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5I1_Wing2
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1376
+        width: 243
+        height: 349
+      alignment: 9
+      pivot: {x: 0.041641045, y: 0.34580702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7164b6a98b6f141bf67b52ea633ed0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5I1_Head
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1498
+        width: 259
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5929172, y: 0.3964311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4590700cf5b473e4aafb7553b85bb31a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_11
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1008
+        width: 310
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c57524d4de9954daa5024721247abe
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Dragon Pieces_12
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 403
+        width: 607
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782eb1fba5bbdf145ad97d59d56f5001
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d6fddc6955411a4484891f15e12467a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ice Dragon Pieces_0: 21300000
+      5I1_Body: 21300006
+      5I1_Wing2: 21300016
+      5I1_Head: 21300018
+      Ice Dragon Pieces_12: 21300022
+      5I1_Wing1: 21300008
+      Ice Dragon Pieces_7: 21300014
+      Ice Dragon Pieces_11: 21300020
+      Ice Dragon Pieces_5: 21300010
+      Ice Dragon Pieces_6: 21300012
+      Ice Dragon Pieces_2: 21300004
+      Ice Dragon Pieces_1: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

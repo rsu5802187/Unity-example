@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: b553e37ec8025e04d90ab9c0e2cfbfce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Dragons Archives Set 2 (1)_0
+  - first:
+      213: 21300002
+    second: Dragons Archives Set 2 (1)_1
+  - first:
+      213: 21300004
+    second: Dragons Archives Set 2 (1)_2
+  - first:
+      213: 21300006
+    second: Dragons Archives Set 2 (1)_3
+  - first:
+      213: 21300008
+    second: Dragons Archives Set 2 (1)_4
+  - first:
+      213: 21300010
+    second: Dragons Archives Set 2 (1)_5
+  - first:
+      213: 21300012
+    second: Dragons Archives Set 2 (1)_6
+  - first:
+      213: 21300014
+    second: Dragons Archives Set 2 (1)_7
+  - first:
+      213: 21300016
+    second: Dragons Archives Set 2 (1)_8
+  - first:
+      213: 21300018
+    second: Dragons Archives Set 2 (1)_9
+  - first:
+      213: 21300020
+    second: Dragons Archives Set 2 (1)_10
+  - first:
+      213: 21300022
+    second: Dragons Archives Set 2 (1)_11
+  - first:
+      213: 21300024
+    second: Dragons Archives Set 2 (1)_12
+  - first:
+      213: 21300026
+    second: Dragons Archives Set 2 (1)_13
+  - first:
+      213: 21300028
+    second: Dragons Archives Set 2 (1)_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1017
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c255f11ebb50d4b8ea6583b838b169
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1017
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e9688d8465f74ba72e35e4697c00d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1017
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f48fb5ac2581744a2218e3fbb68391
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1017
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c129aa34cb6aeb049b48341eaea1961c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1017
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d9cac49db1474e9b9b397e59afbeb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1017
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d88f77e07175478f0a0a11a52b9a0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 531
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e225bf39dd7e4189d47cba33387e9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 531
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6442e3be0e97f4f9ac172fe354fcc8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 532
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c1fed8ef884249a7a4dee1d97e7ad
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 532
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac7a375bde261243ae4bfe56fe2232c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 532
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc265141ab7dc74c857d4658cd29a60
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 532
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9538bbc62bb446a2dea7e2dc56b28
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb5586a1638ff742bdd89dd31916c96
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 43
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5329a1f4537345af4701bbfb772da
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragons Archives Set 2 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 43
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04722c9ed623dae40ba689d80e2cc56a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ac29eb66f7f097149ad48a23b1a38898
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dragons Archives Set 2 (1)_7: 21300014
+      Dragons Archives Set 2 (1)_10: 21300020
+      Dragons Archives Set 2 (1)_8: 21300016
+      Dragons Archives Set 2 (1)_1: 21300002
+      Dragons Archives Set 2 (1)_2: 21300004
+      Dragons Archives Set 2 (1)_0: 21300000
+      Dragons Archives Set 2 (1)_12: 21300024
+      Dragons Archives Set 2 (1)_9: 21300018
+      Dragons Archives Set 2 (1)_13: 21300026
+      Dragons Archives Set 2 (1)_14: 21300028
+      Dragons Archives Set 2 (1)_6: 21300012
+      Dragons Archives Set 2 (1)_11: 21300022
+      Dragons Archives Set 2 (1)_3: 21300006
+      Dragons Archives Set 2 (1)_5: 21300010
+      Dragons Archives Set 2 (1)_4: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

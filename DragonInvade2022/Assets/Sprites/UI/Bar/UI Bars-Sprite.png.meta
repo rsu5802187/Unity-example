@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 4bdee250e3808bc4da546df19ab2103d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_HealthBar_Cover
+  - first:
+      213: 21300002
+    second: UI_AmmoBar_Cover
+  - first:
+      213: 21300004
+    second: UI_UniqueBar_Cover
+  - first:
+      213: 21300006
+    second: UI_BossBar_Cover
+  - first:
+      213: 21300008
+    second: UI_LoadingBar_Cover
+  - first:
+      213: 21300010
+    second: UI_HealthBar_Main
+  - first:
+      213: 21300012
+    second: UI_AmmoBar_Main
+  - first:
+      213: 21300014
+    second: UI_UniqueBar_Main
+  - first:
+      213: 21300016
+    second: UI_BossBar_Main
+  - first:
+      213: 21300018
+    second: UI_LoadingBar_Main
+  - first:
+      213: 21300020
+    second: UI_HealthBar_BackGround
+  - first:
+      213: 21300022
+    second: UI_AmmoBar_Background
+  - first:
+      213: 21300024
+    second: UI_UniqueBar_BackGround
+  - first:
+      213: 21300026
+    second: UI_BossBar_Bg
+  - first:
+      213: 21300028
+    second: UI_LoadingBar_Background
+  - first:
+      213: 21300030
+    second: UI_HealthBar_S
+  - first:
+      213: 21300032
+    second: UI_AmmoBar_S
+  - first:
+      213: 21300034
+    second: UI_UniqueBar_S
+  - first:
+      213: 21300036
+    second: UI_BarEffect1
+  - first:
+      213: 21300038
+    second: UI Bars-Sprite_19
+  - first:
+      213: 21300040
+    second: UI Bars-Sprite_20
+  - first:
+      213: 21300042
+    second: UI_BossBar_S
+  - first:
+      213: 21300044
+    second: UI Bars-Sprite_22
+  - first:
+      213: 21300046
+    second: UI Bars-Sprite_26
+  - first:
+      213: 21300048
+    second: UI Bars-Sprite_27
+  - first:
+      213: 21300050
+    second: UI Bars-Sprite_28
+  - first:
+      213: 21300052
+    second: UI Bars-Sprite_29
+  - first:
+      213: 21300054
+    second: UI Bars-Sprite_30
+  - first:
+      213: 21300056
+    second: UI Bars-Sprite_31
+  - first:
+      213: 21300058
+    second: UI Bars-Sprite_32
+  - first:
+      213: 21300060
+    second: UI Bars-Sprite_36
+  - first:
+      213: 21300062
+    second: UI Bars-Sprite_37
+  - first:
+      213: 21300064
+    second: UI Bars-Sprite_38
+  - first:
+      213: 21300066
+    second: UI Bars-Sprite_39
+  - first:
+      213: 21300068
+    second: UI Bars-Sprite_40
+  - first:
+      213: 21300070
+    second: UI Bars-Sprite_41
+  - first:
+      213: 21300072
+    second: UI Bars-Sprite_42
+  - first:
+      213: 21300074
+    second: UI Bars-Sprite_43
+  - first:
+      213: 21300076
+    second: UI Bars-Sprite_44
+  - first:
+      213: 21300078
+    second: UI Bars-Sprite_46
+  - first:
+      213: 21300080
+    second: UI Bars-Sprite_47
+  - first:
+      213: 21300082
+    second: UI Bars-Sprite_48
+  - first:
+      213: 21300084
+    second: UI Bars-Sprite_49
+  - first:
+      213: 21300086
+    second: UI Bars-Sprite_50
+  - first:
+      213: 21300088
+    second: UI Bars-Sprite_51
+  - first:
+      213: 21300090
+    second: UI Bars-Sprite_52
+  - first:
+      213: 21300092
+    second: UI Bars-Sprite_53
+  - first:
+      213: 21300094
+    second: UI Bars-Sprite_54
+  - first:
+      213: 21300096
+    second: UI Bars-Sprite_55
+  - first:
+      213: 21300098
+    second: UI Bars-Sprite_56
+  - first:
+      213: 21300100
+    second: UI Bars-Sprite_57
+  - first:
+      213: 21300102
+    second: UI Bars-Sprite_58
+  - first:
+      213: 21300104
+    second: UI Bars-Sprite_62
+  - first:
+      213: 21300106
+    second: UI Bars-Sprite_63
+  - first:
+      213: 21300108
+    second: UI Bars-Sprite_64
+  - first:
+      213: 21300110
+    second: UI Bars-Sprite_65
+  - first:
+      213: 21300112
+    second: UI Bars-Sprite_66
+  - first:
+      213: 21300114
+    second: UI Bars-Sprite_70
+  - first:
+      213: 21300116
+    second: UI Bars-Sprite_71
+  - first:
+      213: 21300118
+    second: UI Bars-Sprite_72
+  - first:
+      213: 21300120
+    second: UI Bars-Sprite_73
+  - first:
+      213: 21300122
+    second: UI Bars-Sprite_74
+  - first:
+      213: 21300124
+    second: UI Bars-Sprite_75
+  - first:
+      213: 21300126
+    second: UI Bars-Sprite_76
+  - first:
+      213: 21300128
+    second: UI Bars-Sprite_77
+  - first:
+      213: 21300130
+    second: UI Bars-Sprite_78
+  - first:
+      213: 21300132
+    second: UI Bars-Sprite_79
+  - first:
+      213: 21300134
+    second: UI Bars-Sprite_80
+  - first:
+      213: 21300136
+    second: UI Bars-Sprite_81
+  - first:
+      213: 21300138
+    second: UI Bars-Sprite_82
+  - first:
+      213: 21300140
+    second: UI Bars-Sprite_83
+  - first:
+      213: 21300142
+    second: UI Bars-Sprite_84
+  - first:
+      213: 21300144
+    second: UI Bars-Sprite_87
+  - first:
+      213: 21300146
+    second: UI Bars-Sprite_88
+  - first:
+      213: 21300148
+    second: UI Bars-Sprite_89
+  - first:
+      213: 21300150
+    second: UI Bars-Sprite_93
+  - first:
+      213: 21300152
+    second: UI Bars-Sprite_94
+  - first:
+      213: 21300154
+    second: UI Bars-Sprite_95
+  - first:
+      213: 21300156
+    second: UI Bars-Sprite_96
+  - first:
+      213: 21300158
+    second: UI Bars-Sprite_97
+  - first:
+      213: 21300160
+    second: UI Bars-Sprite_98
+  - first:
+      213: 21300162
+    second: UI Bars-Sprite_99
+  - first:
+      213: 21300164
+    second: UI Bars-Sprite_100
+  - first:
+      213: 21300166
+    second: UI Bars-Sprite_101
+  - first:
+      213: 21300168
+    second: UI Bars-Sprite_102
+  - first:
+      213: 21300170
+    second: UI Bars-Sprite_103
+  - first:
+      213: 21300172
+    second: UI Bars-Sprite_104
+  - first:
+      213: 21300174
+    second: UI Bars-Sprite_105
+  - first:
+      213: 21300176
+    second: UI Bars-Sprite_106
+  - first:
+      213: 21300178
+    second: UI Bars-Sprite_107
+  - first:
+      213: 21300180
+    second: UI Bars-Sprite_108
+  - first:
+      213: 21300182
+    second: UI Bars-Sprite_109
+  - first:
+      213: 21300184
+    second: UI_HealthBar_BackGround2
+  - first:
+      213: 21300186
+    second: UI_UniqueBar_FullyCharged
+  - first:
+      213: 21300188
+    second: UI_BarEffect2
+  - first:
+      213: 21300190
+    second: UI_BarEffect1
+  - first:
+      213: 21300192
+    second: UI Bars-Sprite_25
+  - first:
+      213: 21300194
+    second: UI Bars-Sprite_33
+  - first:
+      213: 21300196
+    second: UI Bars-Sprite_34
+  - first:
+      213: 21300198
+    second: UI_BarEffect2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 16
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_HealthBar_Cover
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2455
+        width: 1567
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 196, y: 180, z: 186, w: 180}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7928d4090118e45b95c5094d5c57cb
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_AmmoBar_Cover
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2460
+        width: 1562
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 206, y: 180, z: 198, w: 180}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c8abe1acdd364ca10d90f897a1474
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_UniqueBar_Cover
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 2485
+        width: 1563
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 217, y: 180, z: 197, w: 180}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472428cf183518f47b247ca0a4dd4ccd
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BossBar_Cover
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 2509
+        width: 1562
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 199, y: 180, z: 190, w: 180}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34b4280fb399845a108436a75c60ec
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_LoadingBar_Cover
+      rect:
+        serializedVersion: 2
+        x: 8289
+        y: 2514
+        width: 1562
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 197, y: 180, z: 197, w: 180}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b753a2e5bdd144b2c0117cd829eb9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_HealthBar_Main
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1977
+        width: 1509
+        height: 307
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 165, y: 0, z: 157, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a8bf34bda0114fac886576b7eaeef
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_AmmoBar_Main
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 1986
+        width: 1514
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 185, y: 150, z: 175, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2614f1a511704458c8bfc147332d41
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_UniqueBar_Main
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 2006
+        width: 1513
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 179, y: 150, z: 168, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae90369f815234fa8eddc86dc3cdd2
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BossBar_Main
+      rect:
+        serializedVersion: 2
+        x: 6462
+        y: 2030
+        width: 1514
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 166, y: 150, z: 163, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950544b54fd4d9f4fa0408aeeb1607bd
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_LoadingBar_Main
+      rect:
+        serializedVersion: 2
+        x: 8313
+        y: 2035
+        width: 1514
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 171, y: 150, z: 164, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8257f587e3d914fb43eef6ae13386f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_HealthBar_BackGround
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1502
+        width: 1499
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 162, y: 0, z: 155, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ddd0ab766a064d88e058622f517c5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_AmmoBar_Background
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1507
+        width: 1494
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 178, y: 150, z: 154, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1801bfffe55d0a14eb82aaae6ca1ae9a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_UniqueBar_BackGround
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 1532
+        width: 1494
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 187, y: 150, z: 180, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406e9d256158e94eba9a154ecaee51c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BossBar_Bg
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 1556
+        width: 1498
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 160, y: 150, z: 164, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c212a40a0ad64c8406512d364a46e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_LoadingBar_Background
+      rect:
+        serializedVersion: 2
+        x: 8323
+        y: 1561
+        width: 1494
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 163, y: 150, z: 143, w: 150}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182446d1a3acc34cafea718a2fe9d61
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_HealthBar_S
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1080
+        width: 88
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465f01f80f88944e8db061a64f4c22a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_AmmoBar_S
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 1068
+        width: 92
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ef5f24d1931874c81c8eb4171e92b6
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_UniqueBar_S
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 1087
+        width: 91
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afccc22bdf4b334a82a38da054bf920
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BossBar_S
+      rect:
+        serializedVersion: 2
+        x: 7801
+        y: 1113
+        width: 91
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad222f431526a8c4390d7bf06b5142f4
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 9651
+        y: 1117
+        width: 92
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11dc021417d38c41b01119dd8cd1800
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_HealthBar_BackGround2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 1545
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b616068717f25418cab7c73e222890
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_UniqueBar_FullyCharged
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 106
+        width: 1594
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 239, y: 0, z: 238, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6167e847f55b342bb20a7be7ac928a
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1036
+        width: 1330
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72531b76ad8d0b649bfe80ae73fa58cd
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 580
+        width: 1152
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4747c19cba9e4ba62687e7c5a4359
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 1079
+        width: 1344
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e4667fd680519418fb2b1827e9d129
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 570
+        width: 1194
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9c3cb357991641b1564c106b1b0bd
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BarEffect2
+      rect:
+        serializedVersion: 2
+        x: 6549
+        y: 588
+        width: 1166
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46055b270f46cf045ad0f1951ee95bad
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BarEffect1
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 1137
+        width: 1301
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cee6a327d431144a6f19a7e745dc10
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 533
+        width: 1
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4f4edf71bb6d47b7c3b6b06894ce9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 8491
+        y: 532
+        width: 1118
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ef3c6064d6443429504d535e7be005
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Bars-Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 8291
+        y: 1097
+        width: 1310
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7fa23e8c03b94b8918282971514fa
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 16d5b7b11e4b19740b2961eb805fca85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_HealthBar_BackGround2: 21300184
+      UI_BossBar_Cover: 21300006
+      UI_UniqueBar_BackGround: 21300024
+      UI_AmmoBar_Background: 21300022
+      UI_HealthBar_Main: 21300010
+      UI Bars-Sprite_22: 21300044
+      UI_BarEffect2: 21300188
+      UI Bars-Sprite_20: 21300040
+      UI_HealthBar_BackGround: 21300020
+      UI_HealthBar_S: 21300030
+      UI_UniqueBar_FullyCharged: 21300186
+      UI_BossBar_Main: 21300016
+      UI Bars-Sprite_27: 21300048
+      UI Bars-Sprite_19: 21300038
+      UI_LoadingBar_Cover: 21300008
+      UI_AmmoBar_S: 21300032
+      UI_BossBar_Bg: 21300026
+      UI Bars-Sprite_25: 21300192
+      UI_BarEffect1: 21300036
+      UI_UniqueBar_S: 21300034
+      UI_BossBar_S: 21300042
+      UI_UniqueBar_Cover: 21300004
+      UI_LoadingBar_Main: 21300018
+      UI_HealthBar_Cover: 21300000
+      UI Bars-Sprite_26: 21300046
+      UI_UniqueBar_Main: 21300014
+      UI Bars-Sprite_34: 21300196
+      UI_AmmoBar_Cover: 21300002
+      UI_LoadingBar_Background: 21300028
+      UI Bars-Sprite_33: 21300194
+      UI_AmmoBar_Main: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
